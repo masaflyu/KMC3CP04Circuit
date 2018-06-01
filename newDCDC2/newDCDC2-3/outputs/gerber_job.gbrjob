@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-05-22T06:21:53Z*%
+%TF.Part,Single*%
+%MOIN*%
+%TJ.B_Owner,Masashi Koyama <masa_flyu@yahoo.co.jp>*%
+%TJ.B_ID,newDCDC*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,0.061811*%
+%TJ.B_Size_X,1.377953*%
+%TJ.B_Size_Y,2.165354*%
+M02*
